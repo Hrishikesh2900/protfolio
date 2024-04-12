@@ -1,0 +1,18 @@
+[
+    {
+      "title": "YouTube Clone",
+      "imageSrc": "projects/project.png",
+      "description": "Built a YouTube clone to solidify JavaScript skills and deepen understanding of web development concepts.",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the react, javascript core concepts by building an app.",
+      "skills": ["React", "Javascript", "HTML", "CSS"],
+      "demo": "",
+      "source": ""
+    }
+  ]

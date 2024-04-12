@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Apexon",
+      "startDate": "Sept, 2021",
+      "endDate": "Present",
+      "experiences": ["Implemented REST APIs to streamline data retrieval processes, reducing response times by 50% and enhancing user experience, leading to a 30% increase in customer engagement metrics.", "Developed interactive web pages using React Js, Redux, JavaScript, HTML5, and CSS3"],
+      "imageSrc": "history/Apexon.jpeg"
+    }
+  ]
